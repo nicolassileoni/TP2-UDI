@@ -1,2 +1,0 @@
-nuevo archivo de la rama
-nuevo contenido para el archivo3.txt
